@@ -1,9 +1,13 @@
 # Managers-Alphabet
-Good practices as a manager.
+Good practices as an engineering manager. Generally, these apply to managers who aren't engineers too.
 
-I've been at [Gramener](https://gramener.com) for over three years and 19 months of those as an engineering manager. Clearbit's [Manager's Handbook](https://blog.clearbit.com/managers-handbook-tldr/) was a trigger to curate best practices. I realized Clearbit's version of handbook can be more explicit for easier understanding and adoption.
+*Note: my experience is in software industry, academic research. Hence, your mileage may vary.*
 
-A not too different version of the document was adopted at Gramener.
+I've been at [Gramener](https://gramener.com) for over three years and 19 months of those as an engineering manager. Real-time experience in projects and dealing with people simultaneously helped me understand different situations.
+
+Clearbit's [Manager's Handbook](https://blog.clearbit.com/managers-handbook-tldr/) was a trigger to curate best practices. I realized Clearbit's version of handbook can be more explicit for easier understanding and adoption.
+
+A not too different version of the document was adopted at Gramener. Links to contexts internal to Gramener (calendars, learning material) have been removed due to authentication restrictions.
 
 - Table of Contents
   - Appraisal Discussions
@@ -95,14 +99,13 @@ Also see [Firefighting](#Firefighting) below.
 
 Encourage deep work within your team and practice it yourself.
 
-*Talk: Know about* [*the benefits*](https://www.youtube.com/watch?v=0UmUgaJwEr0) *of long periods of uninterrupted time.*
+*Talk video: Know about* [*the benefits*](https://www.youtube.com/watch?v=0UmUgaJwEr0) *of long periods of uninterrupted time.*
 
 Designers and developers need long hours of dedicated work to be productive. Identify blockers for them (talk to them) and help them focus.
 
 Identify what’s hindering the work you want to do.
 
 It could be ad-hoc calls. Block your calendar for 3 hr stretches where you cannot be disturbed. Refer people to check your calendar. Configure auto-SMS messages.
-
 
 Notes
 ------
@@ -112,3 +115,7 @@ References
 -----------
 1. Clearbit's Manager's Handbook, https://blog.clearbit.com/managers-handbook-tldr/
 2. Engineering management
+3. Your leadership weakness is being “too controlling”.  What to do? [Signal v. Noise blog](https://m.signalvnoise.com/your-leadership-weakness-is-being-too-controlling-what-to-do/).
+4. [Asynchronous communication](https://doist.com/blog/asynchronous-communication/), Doist.
+5. It doesn’t have to be crazy at work, book. [Introduction](https://m.signalvnoise.com/our-new-book-it-doesnt-have-to-be-crazy-at-work-is-out/). [Amazon](https://www.amazon.in/Doesnt-Have-Be-Crazy-Work/dp/0008323445/).
+6. Excellent curated [list of books](https://github.com/jesselpalmer/the-engineering-managers-booklist) for managers.
