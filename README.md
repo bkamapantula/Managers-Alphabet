@@ -62,7 +62,7 @@ Productive Appraisal discussions can be achieved within 30 mins. Multiple discus
 
 **Using SMART Goals**
 
-SMART Goals are a way to measure incremental progress at internals of three months (that is, a quarter). Read [its section](#Smart-Goals) to know more.
+SMART Goals are a way to measure incremental progress at internals of three months (that is, a quarter). Read [its section](#smart-goals) to know more.
 
 ## Breaks
 
@@ -93,7 +93,7 @@ In a dynamic working environment conflicts can arise in different scenarios: dur
 
 Work to resolve them calmly.
 
-Also see [Firefighting](#Firefighting) below.
+Also see [Firefighting](#firefighting) below.
 
 ## Deep work
 
@@ -119,3 +119,4 @@ References
 4. [Asynchronous communication](https://doist.com/blog/asynchronous-communication/), Doist.
 5. It doesn’t have to be crazy at work, book. [Introduction](https://m.signalvnoise.com/our-new-book-it-doesnt-have-to-be-crazy-at-work-is-out/). [Amazon](https://www.amazon.in/Doesnt-Have-Be-Crazy-Work/dp/0008323445/).
 6. Excellent curated [list of books](https://github.com/jesselpalmer/the-engineering-managers-booklist) for managers.
+7. The engineer-manager pendulum by Charity, https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
