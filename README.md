@@ -1,9 +1,9 @@
 # Managers-Alphabet
 Good practices as an engineering manager. Generally, these apply to managers who aren't engineers too.
 
-*Note: my experience is in software industry, academic research. Hence, your mileage may vary.*
+*Note: my experience is in software industry, academic research. Your mileage may vary. Adopt accordingly.*
 
-I've been at [Gramener](https://gramener.com) for over three years and 19 months of those as an engineering manager. Real-time experience in projects and dealing with people simultaneously helped me understand different situations.
+I've been at [Gramener](https://gramener.com) for over three years and 19 months of those as an engineering manager. Prior to that I spent about 8 years in academic research with different mentors. Real-time experience in projects and dealing with people simultaneously helped me understand different situations.
 
 Clearbit's [Manager's Handbook](https://blog.clearbit.com/managers-handbook-tldr/) was a trigger to curate best practices. I realized Clearbit's version of handbook can be more explicit for easier understanding and adoption.
 
