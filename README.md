@@ -1,4 +1,4 @@
-# Managers-Alphabet
+# Managers Alphabet
 Good practices as an engineering manager. Generally, these apply to managers who aren't engineers too.
 
 *Note: my experience is in software industry, academic research. Your mileage may vary. Adopt accordingly.*
