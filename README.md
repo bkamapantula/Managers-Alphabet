@@ -107,6 +107,144 @@ Identify what’s hindering the work you want to do.
 
 It could be ad-hoc calls. Block your calendar for 3 hr stretches where you cannot be disturbed. Refer people to check your calendar. Configure auto-SMS messages.
 
+*Scenario* - Someone needs your time to validate a project plan?
+
+*Approach* - Ask them to email, share your comments or updated project plan. Refuse meeting if the document isn’t shared few hours/days earlier (define as per your convenience).
+
+*Scenario* - Someone needs your input to send an email?
+
+*Approach* - Ask them to share the draft over an email or chat. Share your comments. If it’s urgent share the comments over a quick call.
+
+It could be meetings. The tasks that need meetings often can be sorted over an email. The tasks that need emails can often be sorted over a call. The tasks that need a call can often be sorted over a text message (Slack or Hangouts).
+
+*Scenario* - Someone needs 30 mins of your time for a *quick chat*
+
+*Approach* - Ask them to share an agenda. If sensitive (time or people-related) act immediately.
+
+Judge wisely.
+
+## Dos and Don’ts
+
+**Do**
+
+- Give freedom.
+- Give periodic, specific feedback.
+- Apologize when you're in the wrong (ex: late for meeting or on a promised incomplete task).
+- Care about health of those in your team. Ask them to take leaves regularly.
+
+**Don’t**
+
+- Ever publicly shame.
+- Micro-manage. Not sure if you're doing it or not? [Read to know](https://hbr.org/2014/11/signs-that-youre-a-micromanager).
+- Give generic feedback.
+
+## Empathy
+
+Be empathetic.
+
+## Feedback
+
+**Evidence-based**
+
+Feedback should be backed by evidence.
+
+Bad - “You are always late to meetings” is vague.
+
+Better - “I noticed the last two times you weren’t on time. Is anything bothering you?” is backed by evidence and shows concern to know about their problem.
+
+**Be specific**
+
+Bad - “Your code is not good” is vague.
+
+Better - “This code is a starting point. If you can work upon lines `x1` to `x2`, `y1` to `y2` with `XX` and `YY` abstractions application will be more performant” is specific.
+
+Productive Feedback sessions can be achieved in 30 mins.
+
+## Firefighting
+
+A manager’s role doesn’t exist in isolation. They will be part of projects that need to be executed against deadlines. These projects will involve cross-functional teams. People can behave unexpectedly when under pressure (due to delayed timelines from internal or client-side etc.) and tempers could flare up. Prepare for it and work with individuals to get the focus back to project.
+
+If you are unable to manage it loop in respective people managers and work through them. Loop in People Team if things escalate. If such instances occur repeatedly inform respective practice heads. Typically, frequent communication can help resolve such incidents.
+
+## Growth
+
+Personal growth is critical to manage your teams (client-facing projects or reportees).
+
+Use SMART goals to set your goals.
+
+## Handling Exits
+
+People leave organisations all the time. Be prepared to handle it.
+
+Refer to your organization's policy on separation and termination.
+
+**Be cordial**
+
+Yes, you're under tremendous pressure to deliver the project and the exiting person is skilled at what they do. Be cordial in communication.
+
+People only leave their current role and in several instances, are happy to return at a later point. People maybe inclined to gain experience elsewhere for industry exposure. Welcome that and work with them for a smooth transition.
+
+**Transitioning**
+
+Ensure projects transition well.
+
+Ask yourself and your team these questions:
+
+1. What are the pieces of information only she/he knows?
+    1. Document them in project repositories or internal Wiki.
+2. What are the pieces of information she/he knows along with others?
+    1. Document them, train others to pick up on those aspects.
+3. Is she/he your team's client SPOC?
+    1. Prepare a checklist of touch-points with client.
+    2. Arrange for another person (or two if the exiting person is experienced) to shadow for 3-4 weeks.
+
+**Clean up**
+
+- Notify the IT team. Know the process in your organization.
+- Ensure client data is handled appropriately.
+- Transfer ownership. Does the person own directories in Google drive or Seafile? Transfer the ownership to someone else.
+- Are their private keys on the server(s)? Remove them.
+
+## Improvement
+
+At times, one would end up working with a colleague who might not reach the expectations. Before deciding to move the person out of the team ensure you have followed the right approach.
+
+**Expectations**
+
+Scenario - Were overall expectations clear from day 1?
+
+Approach - If not, set the expectations. Explicitly. Write them down. Share with the colleague.
+
+Scenario - The output (design artefact or code or quality check or documentation) was not as you expected consistently?
+
+Approach - Prepare a list of quality checks.
+
+**Opportunities**
+
+Scenario - Was the person given enough chances to prove their skill?
+
+Approach - If not, rethink and provide more opportunities.
+
+Scenario - How many number of opportunities is the cut-off?
+
+Approach - Three opportunities (different or similar tasks across projects based on the person’s preference) is reasonable.
+
+Refer to your organization's performance appraisal procedure.
+
+## Leadership
+
+There are plenty of opportunities for growth. Be on the look out for emails:
+
+- on talks or workshops in organizations or universities
+- meetup events
+
+Extend these invites to others and help them grow.
+
+Know your leadership style. Engage with different teams and use the opportunities to fine-tune the processes, learnings.
+
+Best of the leadership styles enable teams to excel without constant interference.
+
+
 Notes
 ------
 My thoughts are shaped by leaders of the industry: [S Anand](https://twitter.com/sanand0/), [Charity](https://twitter.com/mipsytipsy/), [Jessie Frazelle](https://twitter.com/jessfraz), [Feross](https://twitter.com/feross/), [Camille Fournier](https://twitter.com/skamille/) and many others.
