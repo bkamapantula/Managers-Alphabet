@@ -313,6 +313,56 @@ What is not? Person.
 
 Be sensitive while allocating people to projects and communicating via emails and conversations. Language permeates through different contexts, unknowingly at times. [Non-violent communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1) is handy.
 
+## Reviews
+
+**People**
+
+People reporting to you might be working in projects that you aren’t part of. This may not be uncommon at your organization.
+
+Establish a mechanism to track such instances. A periodic review call with reportee, concerned consultant or project manager is a good mechanism.
+
+**Projects**
+
+Establish periodic (monthly) reviews of projects and pass on timely feedback. Refer to an internal `Project Evaluation Template` for a reference. Create one (after consulting the relevant stakeholders) if it doesn't exist.
+
+## Smart Goals
+
+SMART Goals are an accepted form of setting targets... where SMART is an acronym:
+
+- S - Specific
+- M - Measurable
+- A - Attainable
+- R - Relevant
+- T - Time-bound
+
+1. First, ensure your goals are set. Discuss with your manager about it.
+2. Set every goal specifically that be measured within reasonable timeframe.
+
+**What can go wrong**
+If a manager isn't proactive and vigilant with setting up goals for his/her team this mechanism wouldn't work.
+
+## Training
+
+**Yourself**
+
+Identify the areas for improvement, chalk out a plan. For every area of improvement identify a mentor or a buddy who will hold you accountable for your plan. Setup periodic calls to review progress.
+
+**Your team**
+
+Discuss with each of your reportees and identify their interests and problem areas (by asking them). Chalk out a plan for the most important one (individual and organization alignment).
+
+## Unchain
+
+Meetings have real cost. To quote the book [It doesn't have to be crazy at work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work) -- "a 1 hour meeting with 4 people isn't 1 hr, it's worth 4 hrs". [Read through](https://learn.gramener.com/meetings/) and make the most of your time.
+
+Unchain your time from different meetings, initiatives when necessary. Contribute where you're *absolutely* needed (where the initiative or the meeting will fail without you). Others will understand.
+
+## Work-life balance
+
+All of us aim to balance our interests at work and life outside of work. Planning extensively before a project is executed in different phases (design, development, QA) can help immensely to bring the best out of all teams.
+
+There are moments of intense and lull work periods. Keep a tab on your team members and importantly, yourself.
+
 Notes
 ------
 My thoughts are shaped by leaders of the industry: [S Anand](https://twitter.com/sanand0/), [Charity](https://twitter.com/mipsytipsy/), [Jessie Frazelle](https://twitter.com/jessfraz), [Feross](https://twitter.com/feross/), [Camille Fournier](https://twitter.com/skamille/) and many others.
