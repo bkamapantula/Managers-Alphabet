@@ -1,7 +1,7 @@
 # Managers Alphabet
 Good practices as an engineering manager. Generally, these apply to managers who aren't engineers too.
 
-*Note: my experience is in software industry, academic research. Your mileage may vary. Adopt accordingly.*
+*Note: my experience is in software industry, academic research. Bulk of the advice is geared towards working with knowledge workers in the IT services sector. Your mileage may vary. Adopt accordingly.*
 
 I've been at [Gramener](https://gramener.com) for over three years and 19 months of those as an engineering manager. Prior to that I spent about 8 years in academic research with different mentors. Real-time experience in projects and dealing with people simultaneously helped me understand different situations.
 
@@ -244,6 +244,74 @@ Know your leadership style. Engage with different teams and use the opportunitie
 
 Best of the leadership styles enable teams to excel without constant interference.
 
+## Limitations
+
+You may have been promoted as part of managerial track or hired as a manager. The people you manage may have better skills than you. That is alright.
+
+A manager’s role is to facilitate business and help people grow. Know your limitations. If you are allocated a task or picked up a task that you, realize later, are not equipped to handle well identify the right people within or outside (raise a hire request) Gramener.
+
+You may chose to work on that specific task if it interests you for work (make it a goal) or as a hobby (find a buddy and review periodically).
+
+## Meetings
+
+You can’t always avoid them. Aim to reduce them for your team. Less distracted people focus more.
+
+Always cut the group calls in half until you can’t. Cut a `1 hr` meeting to `30 mins`, cut a `30 mins`  discussion to `15 mins`, cut a `10 mins` discussion to a quick call.
+
+Context switching (across several tasks) has a [cost](https://www.youtube.com/watch?v=T7MCplY_yPc) and is real.
+
+**Agenda**
+Set the agenda if you’re creating the meeting, check if only those are present whose inputs are required.
+
+Ask everyone to share their thoughts over the calendar invite or on a shared document. Writing down your ideas will clear your head and streamline thoughts further.
+
+Ask for an explicit meeting agenda if you’re attending one. Skip it if you don't have it upfront.
+
+## Note taking
+
+Sharing updates after meetings is critical for businesses to function. Note taking helps this immensely in different contexts: internal/external stakeholder meetings, one-on-one meetings, appraisal discussions, ad-hoc meetings, sports, cultural events, social settings etc.
+
+1. Note taking is a necessary skill for a manager.
+2. Offer to take notes whenever possible.
+3. Share the notes once a meeting is complete.
+4. Mentor others to pick up this skill by gently nudging them to take notes on specific topics then complete conversation. Review their progress frequently.
+
+Note taking need not be item-based. Refer to Rasagy’s [sketch note](https://twitter.com/rasagy/status/1102763157162881025/photo/1) taking approach. It’s important to capture the essence as well minute details (in certain contexts).
+
+## One-on-ones
+
+One-on-one meetings are critical to get timely feedback from people.
+
+1. These meetings are for the reportee.
+2. Set them frequently. Twice a month is good. Once a week is great.
+
+Productive one-on-one meetings can be achieved in 30 mins.
+
+## People
+
+As a people manager you are responsible for the overall well-being of the reportee including health, career path, mentoring, performance.
+
+Occasionally, reportees might reach out for help in personal lives. Support them.
+
+## Planning
+
+Everything at work boils down to planning. Be it projects or tasks or goals or meetings. Deliberately practice planning via tools (calendar, emails etc.) and templates (project plan, WSR etc.).
+
+Revisit the planning frequently and adapt.
+
+## Questions
+
+Ask lots of them, upstream. It’ll help clarify short-term and long-term goals.
+
+Request lots of them, downstream. It’ll help clarify your thought process.
+
+## Resource
+
+What is a resource? Laptop, USB, WiFi hotspot.
+
+What is not? Person.
+
+Be sensitive while allocating people to projects and communicating via emails and conversations. Language permeates through different contexts, unknowingly at times. [Non-violent communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1) is handy.
 
 Notes
 ------
