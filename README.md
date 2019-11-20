@@ -1,13 +1,13 @@
 # Managers Alphabet
-Good practices as an engineering manager. Generally, these apply to managers who aren't engineers too.
+This is a curation of good practices as an engineering manager. Generally, these apply to managers who aren't engineers too.
 
 *Note: my experience is in software industry, academic research. Bulk of the advice is geared towards working with knowledge workers in the IT services sector. Your mileage may vary. Adopt accordingly.*
 
-I've been at [Gramener](https://gramener.com) for over three years and 19 months of those as an engineering manager. Prior to that I spent about 8 years in academic research with different mentors. Real-time experience in projects and dealing with people simultaneously helped me understand different situations.
+You may want to know my [background](#background) to appreciate the content better.
 
 Clearbit's [Manager's Handbook](https://blog.clearbit.com/managers-handbook-tldr/) was a trigger to curate best practices. I realized Clearbit's version of handbook can be more explicit for easier understanding and adoption.
 
-A not too different version of the document was adopted at Gramener. Links to contexts internal to Gramener (calendars, learning material) have been removed due to authentication restrictions.
+A not too different version of the document was adopted at [Gramener](https://gramener.com/). Links to contexts internal to Gramener (calendars, learning material) have been removed due to authentication restrictions.
 
 - Table of Contents
   - Appraisal Discussions
@@ -21,7 +21,6 @@ A not too different version of the document was adopted at Gramener. Links to co
   - Growth
   - Handling Exits
   - Improvement
-  - Know
   - Leadership
   - Learning
   - Limitations
@@ -37,7 +36,6 @@ A not too different version of the document was adopted at Gramener. Links to co
   - Training
   - Unchain
   - Work-life balance
-  - XYZ
   
 ## Appraisal Discussions
 
@@ -363,16 +361,21 @@ All of us aim to balance our interests at work and life outside of work. Plannin
 
 There are moments of intense and lull work periods. Keep a tab on your team members and importantly, yourself.
 
-Notes
-------
+Background
+----------
+
+I've been at [Gramener](https://gramener.com) for over three years and 19 months of those as an engineering manager. Prior to that I spent about 8 years in academic research with different mentors. Real-time experience in projects and dealing with people simultaneously helped me understand different situations.
+
+My frequent interactions involve developers, business analysts, designers, quality analysts, SBU and practice heads.
+
 My thoughts are shaped by leaders of the industry: [S Anand](https://twitter.com/sanand0/), [Charity](https://twitter.com/mipsytipsy/), [Jessie Frazelle](https://twitter.com/jessfraz), [Feross](https://twitter.com/feross/), [Camille Fournier](https://twitter.com/skamille/) and many others.
 
 References
 -----------
-1. Clearbit's Manager's Handbook, https://blog.clearbit.com/managers-handbook-tldr/
-2. Engineering management
+1. Clearbit's [Manager's Handbook](https://blog.clearbit.com/managers-handbook-tldr/).
+2. [Engineering management](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) by Charity.
 3. Your leadership weakness is being “too controlling”.  What to do? [Signal v. Noise blog](https://m.signalvnoise.com/your-leadership-weakness-is-being-too-controlling-what-to-do/).
 4. [Asynchronous communication](https://doist.com/blog/asynchronous-communication/), Doist.
 5. It doesn’t have to be crazy at work, book. [Introduction](https://m.signalvnoise.com/our-new-book-it-doesnt-have-to-be-crazy-at-work-is-out/). [Amazon](https://www.amazon.in/Doesnt-Have-Be-Crazy-Work/dp/0008323445/).
 6. Excellent curated [list of books](https://github.com/jesselpalmer/the-engineering-managers-booklist) for managers.
-7. The engineer-manager pendulum by Charity, https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
+7. [The engineer-manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) by Charity.
