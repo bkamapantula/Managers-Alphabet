@@ -337,6 +337,7 @@ SMART Goals are an accepted form of setting targets... where SMART is an acronym
 2. Set every goal specifically that be measured within reasonable timeframe.
 
 **What can go wrong**
+
 If a manager isn't proactive and vigilant with setting up goals for his/her team this mechanism wouldn't work.
 
 ## Training
@@ -351,7 +352,7 @@ Discuss with each of your reportees and identify their interests and problem are
 
 ## Unchain
 
-Meetings have real cost. To quote the book [It doesn't have to be crazy at work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work) -- "a 1 hour meeting with 4 people isn't 1 hr, it's worth 4 hrs". [Read through](https://learn.gramener.com/meetings/) and make the most of your time.
+Meetings have real cost. To quote the book [It doesn't have to be crazy at work](https://www.goodreads.com/book/show/38900866-it-doesn-t-have-to-be-crazy-at-work) -- "a 1 hour meeting with 4 people isn't 1 hr, it's worth 4 hrs".
 
 Unchain your time from different meetings, initiatives when necessary. Contribute where you're *absolutely* needed (where the initiative or the meeting will fail without you). Others will understand.
 
